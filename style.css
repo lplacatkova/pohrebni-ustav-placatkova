@@ -1,0 +1,33 @@
+body {
+    background-color:darkslategray
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:lightslategrey
+}
+img {
+    width: 250px;
+    height: auto;
+    border-radius: 30px;
+    object-fit: fill;
+    object-position: top;
+    }
+   
+    .flex-kontejner {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+.rakve {
+    background-color: darkgray;
+    border: 2px solid #000000;
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+    width: 600px;
+    float: left;
+    text-align: center;
+    border-radius: 1px;
+}
